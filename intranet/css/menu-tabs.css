@@ -1,0 +1,63 @@
+body {
+   font-family: Verdana;
+   font-size: 14px;
+}
+
+a, a:Visited {
+   color: #0075ed;
+}
+
+a:hover, a:visited:hover {
+   color: #4397ed;
+}
+
+ul.navigation a {
+   color: #FFF;
+   background: #820b08;
+   text-decoration: none;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+
+ul.navigation a, ul.navigation a span {
+   display: block;
+   float: left
+}
+
+/* Hide from IE5-Mac \*/
+ul.navigation a, ul.navigation a span {
+   float: none
+}
+/* End hide */
+
+ul.navigation a:hover {
+   color: #FFF;
+   background: #464d49;
+}
+
+
+ul.navigation {
+   padding: 0;
+   margin: 0;
+}
+
+ul.navigation li {
+   list-style: none;
+   float: left;
+   margin-left: 10px;
+}
+
+#menu {
+  margin-top: -5px;
+  left: 70%;
+  position: absolute;
+}
+
+#sign-up-form {
+   position: absolute;
+   top: 135px;
+}
+

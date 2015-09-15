@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="generator" content="Adobe GoLive" />
+<title>Alpha Rho Media</title>
+<style type="text/css"> 
+html, body { 
+height: 100%; 
+width: 100%; 
+margin: 0;  
+padding: 0;  
+overflow: hidden; 
+outline: 0px;
+background-color: #333333;
+}
+
+.header {
+background-color: #333333;
+width: 100%; 
+}
+
+.links {
+position: absolute;
+top: 110px;
+left: 90%;
+font: 10pt arial;
+margin: 0pt;
+width: 100px;
+z-index: 1;
+}
+
+a {
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+} 
+
+a:hover {
+	font-style: normal;
+	color: #B82F35;
+	text-decoration: none;
+}
+
+#modernbricksmenu{
+padding: 0;
+width: 100%;
+background: transparent;
+voice-family: "\"}\"";
+voice-family: inherit;
+}
+
+#modernbricksmenu ul{
+margin:0;
+margin-left: 40px; /*margin between first menu item and left browser edge*/
+padding: 0;
+list-style: none;
+}
+
+#modernbricksmenu li{
+display: inline;
+margin: 0 2px 0 0;
+padding: 0;
+}
+
+#modernbricksmenu a{
+font: 8pt arial;
+float: left;
+display: block;
+color: white;
+margin: 0 1px 0 0; /*Margin between each menu item*/
+padding: 5px 10px;
+text-decoration: none;
+letter-spacing: 1px;
+background-color: #333333; /*Default menu color*/
+}
+
+#modernbricksmenu a:hover{
+background-color: #B82F35;
+}
+
+#modernbricksmenu #current a{
+background-color: #B82F35;
+border-color: #B82F35;
+}
+
+#modernbricksmenuline{
+clear: both;
+padding: 0;
+width: 100%;
+height: 5px;
+line-height: 5px;
+background: #B82F35;
+}
+
+#myform{ /*CSS for sample search box. Remove if desired */
+float: right;
+margin: 0;
+padding: 0;
+}
+
+#myform .textinput{
+width: 190px;
+border: 1px solid gray;
+}
+
+#myform .submit{
+font: bold 11px Verdana;
+height: 22px;
+background-color: lightyellow;
+} 
+</style>
+
+</head>
+<div id="modernbricksmenu">
+<?php require_once ("menu.inc.php"); ?></div>
+<body bgcolor="#000000">
+<iframe style="height:100%; Width:100%;" border="0" frameborder="0" scrolling="no" src="http://venues.sonecast.net/venue/sinfonia"></iframe>
+<?php require_once ("tracking.inc.php"); ?></body>
+</html>

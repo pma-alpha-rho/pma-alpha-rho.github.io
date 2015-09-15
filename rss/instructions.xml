@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.0.3" -->
+<rss version="2.0" 
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	><channel>
+	<description>Deloitte</description>
+	<pubDate>Wed, 12 Dec 2007 02:39:15 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.0.3</generator>
+<language>en</language><item><description><h1>What is a Sonecast venue?</h1>
+<p>A Sonecast Venue is basically a content aggregator plus a social network. It brings together podcasts, photos 
+from Flickr, videos from YouTube (and other video services), and blog posts. Think of a Venue as an instant 
+social media mash-up tool.</p>
+<h1>How do I use it?</h1>
+<p>It's simple. Upload your photos and videos to Flickr and YouTube and assign them tags.  To have your content 
+appear here use the tag "pmaap" and whatever others you like.  Then, create a Sonecast account and beside each 
+photo, video, or blog post, find the "discuss" icon.  Click and start having conversations about your media.</p></description></item></channel></rss>

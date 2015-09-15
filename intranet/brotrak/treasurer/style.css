@@ -1,0 +1,124 @@
+@import "css/timePicker.css";
+@import "css/jquery-ui-1.7.2.custom.css";
+
+body {
+	font-family: Calibri, Tahoma, Arial, Sans-Serif;
+	font-size: 12px;
+	background-color: #eeeeee;
+}
+
+p {
+	line-height: 20px;
+}
+
+h1 {
+	font-size: 24px;
+	color: #555555;
+}
+
+h3 {
+	font-size: 18px;
+	color: #777777;
+	margin-top: 5px;
+}
+
+li {
+	list-style-type: circle;
+	margin-bottom: 3px;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: #6699cc;
+}
+
+a:hover, a:visited:hover {
+	text-decoration: none;
+	border-bottom: 1px dotted #6699cc;
+	color: #6699cc;
+}
+
+.admin-menu {
+	padding: 5px;
+}
+
+.admin-menu-li {
+	margin: 0 5px 0 5px;
+	list-style-type: none;
+	float: left;
+	padding: 5px;
+}
+
+.admin-menu a, .admin-menu a:visited {
+	color: green;
+	text-decoration: none;
+	padding: 11px;
+}
+
+.admin-menu a:hover, .admin-menu a:visited:hover {
+	color: green;
+	text-decoration: none;
+	border: none;
+	padding: 11px;
+	background-color: #ffffff;
+}
+
+.admin-body {
+	margin-top: 0px;
+	padding-top: 10px;
+}
+
+.list {
+	padding: 5px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+div.calendar_day {
+	float:left; 
+	padding: 20px; 
+	width: 10%;
+	text-align: center;
+	margin-right: 15px;
+	background-color: #eee;
+}
+
+div.calendar_event {
+	padding: 10px;
+	border: 1px solid #eee;
+	margin-bottom: 5px;
+}
+
+div.clear {
+	clear: both;
+}
+#admin-menu-bg {
+	position: relative; 
+	left: 0px; 
+	width: 100%; 
+	background-color: #eeeeee; 
+	height: 35px;
+}
+
+#content-wrap {
+	width: 90%;
+	position: absolute;
+	left: 50%;
+	margin-left: -46%;
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+#left-well {
+	width: 67%;
+	padding: 10px;
+	float: left;
+	border: 1px solid #dddddd;
+	padding-bottom: 15px;
+}
+
+#menu {
+	width: 25%;
+	float: right;
+	padding: 10px;
+	border: 1px solid #dddddd;
+}

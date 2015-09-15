@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /intranet/
+Disallow: /images/
+Disallow: /recordings/

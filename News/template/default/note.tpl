@@ -1,0 +1,17 @@
+; the file is written in INI format.
+
+logout = "You have logged out."
+login = "Wrong username or password."
+welcome = "Welcome!"
+invalid = "Invalid input."
+post_add = "New post added."
+post_del = "Posts deleted."
+post_edit = "Post edited."
+comment_del = "Comments deleted."
+comment_edit = "Comment edited."
+prof_edit = "Profile edited."
+conf_edit = "Configuration edited."
+access = "Unauthorised access."
+cat_add = "New category added."
+cat_rename = "Categories renamed."
+cat_del = "Categories deleted."

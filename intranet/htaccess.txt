@@ -1,0 +1,4 @@
+AuthName "UNC-CH Onyen Authentication"
+AuthType Kerberos
+KrbAuthRealm ISIS.UNC.EDU
+require user pfrosser aprobins jfratian mcrosa levinmaj zmitchel dsmorgan jdzera bpdecker schmittm jaatkins ndankner symich drehoff abasinge pvanderj evan1126 engartst jgrossfuss ehackim harrisdc edmondh holsende jungwill skleonar zlilly sydes mtrexler zwynne

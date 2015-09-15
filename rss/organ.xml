@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+     <title>Opus 367 Final Recordings</title>
+     <link>http://www.unc.edu/sinfonia/</link>
+     <description>Brian &quot;Doc&quot; Miller peforms UNC and Sinfonia Songs. Recorded in Hill Hall Auditorium on the campus of the University of North Carolina at Chapel Hill.</description>
+     <language>en-us</language>
+     <copyright>2007 Alpha Rho Chapter</copyright>
+     <lastBuildDate>Sat, 15 Dec 2007 21:55:28 GMT</lastBuildDate>
+     <ttl>60</ttl>
+          <item>
+          <title>Parting Song</title>
+          <link>http://www.unc.edu/sinfonia/recordings/Parting%20Song.mp3</link>
+          <description>Brian Miller and the Alpha Rho Chapter perfrom this song which ends all Fraternity meetings. (Running Time 01:43)</description>
+          <pubDate>Wed, 26 Sep 2007 05:32:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/Parting%20Song.mp3" length="4137923" type="audio/mpeg"/>
+     </item>
+          <item>
+          <title>Sinfonia Anthem</title>
+          <link>http://www.unc.edu/sinfonia/recordings/Sinfonia%20Anthem.mp3</link>
+          <description>Brian Miller and the Alpha Rho Chapter perform this fraternity song, better known as "All Hail Sinfonian Brothers." (Running Time 00:42)</description>
+          <pubDate>Wed, 26 Sep 2007 05:28:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/Sinfonia%20Anthem.mp3" length="1703310" type="audio/mpeg"/>
+     </item>
+          <item>
+          <title>Red and Black - Hark The Sound</title>
+          <link>http://www.unc.edu/sinfonia/recordings/Red%20and%20Black%20-%20Hark%20the%20Sound.mp3</link>
+          <description>Brian Miller and the Alpha Rho Chapter perform this fraternity anthem which segues into "Hark The Sound" and "Tag!" (Running Time 02:31)</description>
+          <pubDate>Wed, 26 Sep 2007 05:34:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/Red%20and%20Black%20-%20Hark%20the%20Sound.mp3" length="6067849" type="audio/mpeg"/>
+     </item>
+     <item>
+          <title>The Blue and White</title>
+          <link>http://www.unc.edu/sinfonia/recordings/The%20Blue%20and%20White.mp3</link>
+          <description>Brian Miller performs this Marching Tar Heels favorite arranged for band by Brothers Potter and Ripperton with words by Brian Miller, himself. (Running Time 00:50)</description>
+          <pubDate>Wed, 26 Sep 2007 05:36:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/The%20Blue%20and%20White.mp3" length="2016780" type="audio/mpeg"/>
+     </item>
+          <item>
+          <title>The Tar Heel March</title>
+          <link>http://www.unc.edu/sinfonia/recordings/The%20Tar%20Heel%20March.mp3</link>
+          <description>Brian Miller peforms this commencement favorite, which was the inspiration for "Tag!" (I'm a Tar Heel Born). (Running Time 02:05)</description>
+          <pubDate>Wed, 26 Sep 2007 05:39:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/The%20Tar%20Heel%20March.mp3" length="5018772" type="audio/mpeg"/>
+     </item>
+     <item>
+          <title>UNC School Songs</title>
+          <link>http://www.unc.edu/sinfonia/recordings/UNC%20Songs.mp3</link>
+          <description>Brian Miller performs UNC School Songs: "Here Comes Carolina", "Tar Heels on Hand", "Carolina Victory", "Carolina Fight Song", "North Carolina", "Hark The Sound", and "Tag!" (Running Time 03:14)</description>
+          <pubDate>Wed, 26 Sep 2007 05:37:00 GMT</pubDate>
+          <enclosure url="http://www.unc.edu/sinfonia/recordings/UNC%20Songs.mp3" length="7775212" type="audio/mpeg"/>
+     </item>
+</channel>
+</rss>

@@ -1,0 +1,13 @@
+#spellMessage {
+	padding:0.5em 0;
+}
+#spellSuggestion {
+	padding:0.5em 0;
+	display:none;
+}
+#spellSuggestion .spelling {
+	display:none;
+}
+#spellStatus .update, #spellStatus .checking {
+	display:none;
+}

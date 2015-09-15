@@ -1,0 +1,16 @@
+zone = -5
+					date = "%B %d %Y"
+					time = "%l:%M%P"
+					tpl = "default"
+					display = "basic"
+					flood = 10
+					comment = 1
+					filter = ""
+					list = ""
+					locale = "en_GB gbr en_GB.ISO8859-1 en_GB.ISO8859-15 en_GB.ISO_8859-1 en_GB.ISO_8859-15"
+					daylight = 1
+					alias = 0
+					uri = http://localhost/News.php
+					title = PMA Alpha Rho Chapter News
+					description = News from the Alpha Rho chapter of Phi Mu Alpha Sinfonia.
+					
